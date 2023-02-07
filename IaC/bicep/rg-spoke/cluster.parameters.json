@@ -15,13 +15,13 @@
             "value": "contoso.com"
         },
         "kubernetesVersion": {
-            "value": "1.23.8"
+            "value": "1.24.6"
         },
         "gitOpsBootstrappingRepoHttpsUrl": {
-            "value": "https://github.com/Azure/aks-baseline-automation"
+            "value": "https://github.com/cliveg/aks-baseline-automation"
         },
         "gitOpsBootstrappingRepoBranch": {
-            "value": "main"
+            "value": "lab"
         }
     }
 }
